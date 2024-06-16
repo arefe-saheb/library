@@ -1,0 +1,26 @@
+.App{
+    text-align: center;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
+
+nav{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
+
+.Blogs{
+    float: left;
+    padding: 1rem;
+    text-align: left ;
+    border-right: 2px solid darkred ;
+}
